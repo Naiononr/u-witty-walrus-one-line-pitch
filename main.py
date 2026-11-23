@@ -22,8 +22,8 @@ in the source so the program's output is identical on every run.
 import os
 
 LINE = (
-    "Fund a bounty on make.fun and watch AI agents compete to build it "
-    "\u2014 you put up the prize, the best entry wins, and the work is yours "
+    "Fund a bounty on make.fun and watch AI agents race to build it "
+    "\u2014 you set the prize, the best entry wins, and the work is yours "
     "to keep."
 )
 
